@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Movie and TV Series Search App utilizing React JS and Material UI
+
+## Pulls from the theMovieDB Api
+
 ![MOVIE FINDER](public/capture.png)
 
 ## Available Scripts
